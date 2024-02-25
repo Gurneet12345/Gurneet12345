@@ -1,0 +1,18 @@
+
+.movie-tiles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .movie-tile {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .movie-tile img {
+    width: 100%;
+    height: auto;
+  }
+  
